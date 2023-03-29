@@ -25,7 +25,7 @@ const {darkMode} = useContext(DarkModeContext)
     <div className={ darkMode ? " app dark" :"app" }>
       <BrowserRouter>
       <Routes>
-        <Route path="/CRM">
+        <Route path="/">
           <Route index element={<Home />} />
           <Route path="login" element={<Login />}/>
           <Route path="users">
