@@ -1,7 +1,7 @@
 {
   "name": "react-admin",
   "version": "0.1.0",
-   "homepage": "https://rathichandar.github.io",
+   "homepage": "https://rathichandar.github.io/CRM",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
