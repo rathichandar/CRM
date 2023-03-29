@@ -18,11 +18,10 @@ function Sidebar() {
   return (
     <div className='sidebar'>
         <div className="top">
-            <Link to="/" style={{textDecoration:"none"}}>
-            <span className="logo">
-                Master Admin
-                
-            </span>
+            <Link to="/" style={{textDecoration:"none"}}> 
+   
+            <span className='logo '> Blue Data Consulting </span>
+     
             </Link>
         </div>
         <div className="center">
